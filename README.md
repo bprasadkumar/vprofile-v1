@@ -1,4 +1,4 @@
-## Prerequisites for project.....?1 2
+## Prerequisites for project.....?1 2 3
 - JDK 1.8 or later
 - Maven 3 or later
 - MySQL 5.6 or later
